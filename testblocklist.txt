@@ -19,13 +19,13 @@
 0.0.0.0 nrdp.prod.ftl.netflix.com #pings netflix even when not using the app in tv
 
 #To be tested
-# 0.0.0.0 nrdp-anycast.prod.ftl.netflix.com Appeared after blocking all of the above
+# 0.0.0.0 nrdp-anycast.prod.ftl.netflix.com #Appeared after blocking all of the above
 # 0.0.0.0 api-global.netflix.com
-# 0.0.0.0 hmx599.dynatrace-managed.com A12
-# 0.0.0.0 probe.twitter.com A12
-# 0.0.0.0 claro-smp-axmobility.eaqbr.com.br A12
-# 0.0.0.0 vivo-smp-axmobility.eaqbr.com.br A12
-# 0.0.0.0 pbs.twimg.com A12
-# 0.0.0.0 mqtt-mini.facebook.com A12
-# .arpa domains RegEx
-# 0.0.0.0 fedoraproject.org notebook wifi pings fedora every minute
+# 0.0.0.0 hmx599.dynatrace-managed.com #A12
+# 0.0.0.0 probe.twitter.com #A12
+# 0.0.0.0 claro-smp-axmobility.eaqbr.com.br #A12
+# 0.0.0.0 vivo-smp-axmobility.eaqbr.com.br #A12
+# 0.0.0.0 pbs.twimg.com #A12
+# 0.0.0.0 mqtt-mini.facebook.com #A12
+# .arpa domains #RegEx
+# 0.0.0.0 fedoraproject.org #notebook wifi pings fedora every minute
