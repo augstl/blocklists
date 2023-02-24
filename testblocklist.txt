@@ -19,3 +19,10 @@
 
 #To be tested
 # 0.0.0.0 api-global.netflix.com
+# 0.0.0.0 hmx599.dynatrace-managed.com A12
+# 0.0.0.0 probe.twitter.com A12
+# 0.0.0.0 claro-smp-axmobility.eaqbr.com.br A12
+# 0.0.0.0 vivo-smp-axmobility.eaqbr.com.br A12
+# 0.0.0.0 pbs.twimg.com A12
+# 0.0.0.0 mqtt-mini.facebook.com A12
+# .arpa domains RegEx
