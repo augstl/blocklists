@@ -27,3 +27,4 @@
 # 0.0.0.0 pbs.twimg.com A12
 # 0.0.0.0 mqtt-mini.facebook.com A12
 # .arpa domains RegEx
+# 0.0.0.0 fedoraproject.org notebook wifi pings fedora every minute
