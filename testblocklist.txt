@@ -19,6 +19,7 @@
 0.0.0.0 nrdp.prod.ftl.netflix.com #pings netflix even when not using the app in tv
 
 #To be tested
+# 0.0.0.0 nrdp-anycast.prod.ftl.netflix.com Appeared after blocking all of the above
 # 0.0.0.0 api-global.netflix.com
 # 0.0.0.0 hmx599.dynatrace-managed.com A12
 # 0.0.0.0 probe.twitter.com A12
