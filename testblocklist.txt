@@ -1,0 +1,14 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Personal test blocklist
+# -------------------------------------[INFO]---------------------------------------
+#
+# Temporary list for testing
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 br.lgtvsdp.com
+0.0.0.0 br.rdx2.lgtvsdp.com
+0.0.0.0 aic.cdpsvc.lgtvcommon.com
+0.0.0.0 yt2.ggpht.com
+0.0.0.0 br.ibs.lgappstv.com
+0.0.0.0 snu.lge.com
+0.0.0.0 lgtvonline.lge.com
+0.0.0.0 redirector.googlevideo.com
