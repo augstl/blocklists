@@ -13,7 +13,9 @@
 0.0.0.0 lgtvonline.lge.com
 0.0.0.0 redirector.googlevideo.com
 
-## To be tested (TV)
 0.0.0.0 nrdp.prod.cloud.netflix.com #pings netflix even when not using the app in tv
 0.0.0.0 push.prod.netflix.com #pings netflix even when not using the app in tv
 0.0.0.0 push.prod.ftl.netflix.com #pings netflix even when not using the app in tv
+
+#To be tested
+# 0.0.0.0 api-global.netflix.com
