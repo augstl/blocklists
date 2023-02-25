@@ -22,7 +22,7 @@
 0.0.0.0 push.prod.ftl.netflix.com #pings netflix even when not using the app in tv
 0.0.0.0 nrdp.prod.ftl.netflix.com #pings netflix even when not using the app in tv
 0.0.0.0 api-global.netflix.com
-0.0.0.0 nrdp-anycast.prod.ftl.netflix.com
+
 
 # DEMAIS
 0.0.0.0 redirector.googlevideo.com
