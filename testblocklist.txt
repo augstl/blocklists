@@ -13,6 +13,5 @@
 0.0.0.0 mqtt-mini.facebook.com #A12
 
 #To be tested
-# 0.0.0.0 api-global.netflix.com
 # .arpa domains #RegEx
 # 0.0.0.0 fedoraproject.org #notebook wifi pings fedora every minute
