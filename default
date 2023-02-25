@@ -7,3 +7,22 @@
 #
 # ------------------------------------[FILTERS]-------------------------------------
 
+#LGTV
+0.0.0.0 br.lgtvsdp.com
+0.0.0.0 br.rdx2.lgtvsdp.com
+0.0.0.0 aic.cdpsvc.lgtvcommon.com
+0.0.0.0 yt2.ggpht.com
+0.0.0.0 br.ibs.lgappstv.com
+0.0.0.0 snu.lge.com
+0.0.0.0 lgtvonline.lge.com
+
+#NETFLIX
+0.0.0.0 nrdp.prod.cloud.netflix.com #pings netflix even when not using the app in tv
+0.0.0.0 push.prod.netflix.com #pings netflix even when not using the app in tv
+0.0.0.0 push.prod.ftl.netflix.com #pings netflix even when not using the app in tv
+0.0.0.0 nrdp.prod.ftl.netflix.com #pings netflix even when not using the app in tv
+0.0.0.0 api-global.netflix.com
+0.0.0.0 nrdp-anycast.prod.ftl.netflix.com
+
+# DEMAIS
+0.0.0.0 redirector.googlevideo.com
